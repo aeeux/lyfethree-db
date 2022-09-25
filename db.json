@@ -5,29 +5,43 @@
           "name": "Ghost Whey X Chips Ahoy",
           "details": "We've said it before and we will say it again, nothing beats the real thing. With years of R&D and REAL CHIPS AHOY!® cookie pieces in every scoop, this flavor is second to none.",
           "price": "$39.99",
-          "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/WheyCA.png?v=1596573521"
+          "image": "https://cdn.shopify.com/s/files/1/0607/2113/5828/products/471313-05_HOODIE_ZJ01-BLACK-BACK_750x.jpg?v=1663806526"
         },
       {
           "id": "ghost-whey-vegan",
           "name": "GHOST® Vegan Protein",
           "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
           "price": "$49.99",
-          "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/Vegan.png?v=1574882358"
+          "image": "https://cdn.shopify.com/s/files/1/0607/2113/5828/products/471313-05_HOODIE_ZJ01-DARK_GREEN-BACK_750x.jpg?v=1663806528"
         },
            {
           "id": "ghost-whey-x-chips-ahoy",
           "name": "Ghost Whey X Chips Ahoy",
           "details": "We've said it before and we will say it again, nothing beats the real thing. With years of R&D and REAL CHIPS AHOY!® cookie pieces in every scoop, this flavor is second to none.",
           "price": "$39.99",
-          "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/WheyCA.png?v=1596573521"
+          "image": "https://cdn.shopify.com/s/files/1/0607/2113/5828/products/471313-05_HOODIE_ZJ01-DARK_BLUE-BACK_750x.jpg?v=1663806529"
         },
           {
           "id": "ghost-whey-vegan",
           "name": "GHOST® Vegan Protein",
           "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
           "price": "$49.99",
-          "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/Vegan.png?v=1574882358"
-        }
+          "image": "https://cdn.shopify.com/s/files/1/0607/2113/5828/products/471312-44-ROUND-JACKET-2-BLACK-BACK_750x.jpg?v=1663806526"
+        },
+          {
+          "id": "ghost-whey-vegan",
+          "name": "GHOST® Vegan Protein",
+          "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
+          "price": "$49.99",
+          "image": "https://cdn.shopify.com/s/files/1/0607/2113/5828/products/471522-93-LONG-ROUND-JACKET-BLACK-BACK_750x.jpg?v=1663806520"
+        },
+          {
+          "id": "ghost-whey-vegan",
+          "name": "GHOST® Vegan Protein",
+          "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
+          "price": "$49.99",
+          "image": "https://cdn.shopify.com/s/files/1/0607/2113/5828/products/471507-81-PADDED-HOODED-PO-BLACK-BACK_750x.jpg?v=1663806522"
+        },
   ],
   "profile": {
     "name": "aeeux"
