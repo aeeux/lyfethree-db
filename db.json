@@ -1,42 +1,42 @@
 {
   "products": [
     {
-      "id": "baji-blue-lemonade",
+      "id": "1",
       "name": "Baji® Blue Lemonade",
       "details": "We've said it before and we will say it again, nothing beats the real thing. With years of R&D and REAL CHIPS AHOY!® cookie pieces in every scoop, this flavor is second to none.",
       "price": "$4.99",
       "image": "https://lh5.googleusercontent.com/RwYco_vunuhzaAV86Wo6RG5P19ZPcP_wzIhm-poI376ENXMjRyyMDlNyzp1zurEZrBg=w2400"
     },
     {
-      "id": "baji-bomber",
+      "id": "2",
       "name": "Baji® Bomber",
       "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
       "price": "$4.99",
       "image": "https://lh6.googleusercontent.com/l28WNEsnGyPVTkzZI84-djfiNx3FSqCfKkc9hsVNrfjJ1hQxAb6P6nA2ynMeAA7D2lY=w2400"
     },
     {
-      "id": "baji-sourz-special",
+      "id": "3",
       "name": "Baji® Sourz Special",
       "details": "We've said it before and we will say it again, nothing beats the real thing. With years of R&D and REAL CHIPS AHOY!® cookie pieces in every scoop, this flavor is second to none.",
       "price": "$4.99",
       "image": "https://lh6.googleusercontent.com/Oh_7u6WDn10rv9EuFLYgT6HaUtwNd29cMaEx09k3tkPnf-cL8ejiSe6W_Mgt6eSlN6w=w2400"
     },
     {
-      "id": "baji-jungle-juice",
+      "id": "4",
       "name": "Baji® Jungle Juice",
       "details": "INTERIOR POCKETS WITH SOFT VELCRO ADJUSTABLE WAIST LIGHTWEIGHT NYLON CIRE 95% NYLON 5% SPANDEX PRIMALOFT® POLYESTER FILL WATER RESISTANT MACHINE WASH COLD TUMBLE DRY LOW IMPORTED",
       "price": "$4.99",
       "image": "https://lh6.googleusercontent.com/yxmuUKlsLZAhmy_7AZwnB96jrXLnUN6yyKhZyH9ww9NlwJjDnEJL3KvhwIIdpnUjKFE=w2400"
     },
     {
-      "id": "baji-lemon-chill",
+      "id": "5",
       "name": "Baji® Lemon Chill",
       "details": "INTERIOR POCKETS WITH SOFT VELCRO ADJUSTABLE WAIST LIGHTWEIGHT NYLON CIRE 95% NYLON 5% SPANDEX PRIMALOFT® POLYESTER FILL WATER RESISTANT MACHINE WASH COLD TUMBLE DRY LOW IMPORTED",
       "price": "$4.99",
       "image": "https://lh4.googleusercontent.com/LbXhLM2lQVm5qcDG5ZySzqCVd7pSZ7ENyeyS6HH_9UUQJOJz2pPDcYs5pqHvN6xoNqM=w2400"
     },
     {
-      "id": "baji-twisted",
+      "id": "6",
       "name": "Baji® Twisted",
       "details": "ADJUSTABLE BUNGEE AT HOOD, WRIST AND HEM SIZE POCKETS & FRONT POCKET 100% NYLON PRIMALOFT® POLYESTER FILL WATER RESISTANT SPOT CLEAN IMPORTED",
       "price": "$4.99",
